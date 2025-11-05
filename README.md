@@ -16,12 +16,14 @@ This website is for people who enjoy amphibians. We go in depth on what an amphi
 - Sex: Unisex
 - Interests: Animals
 
-Write 2-3 sentences explaining why they would be interested in this product
+
+All people who are interested in animals would want to view our website because they are introduced to new animals they may not know about. As well as learning more about a class of animal they might not think about often.
 
 ## Assigning Tasks
 - Host: Tyler, GitHub Repo link (be sure to push a commit to GitHub EVERYDAY, add partners as collaborators to the repo)
 - Cole: Collecting images, 
-- Person 2: (Do not assign one person to handle an entire webpage by themselves, you should assign them based on their strengths to a particular task that needs to be done accross the whole website)
+- Louis: 
+  (Do not assign one person to handle an entire webpage by themselves, you should assign them based on their strengths to a particular task that needs to be done accross the whole website)
 
 ## Website Layout
 
