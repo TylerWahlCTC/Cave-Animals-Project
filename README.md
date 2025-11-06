@@ -6,10 +6,10 @@
 #### - Louis Royle
 #### - Tyler Wahl
 
-# Title of Website: Weird Amphibians
+# Title of Website: Cave Animals
 
 ## Purpose of Website
-This website is for people who enjoy amphibians. We go in depth on what an amphibian is, as well as showing off some weird looking ones.
+This website is for people who enjoy animals. We go in depth on what animals are present in caves, as well as showing off some weird looking ones.
 
 ## Target Audience
 - Age Group: Any
@@ -17,7 +17,7 @@ This website is for people who enjoy amphibians. We go in depth on what an amphi
 - Interests: Animals
 
 
-All people who are interested in animals would want to view our website because they are introduced to new animals they may not know about. As well as learning more about a class of animal they might not think about often.
+All people who are interested in animals would want to view our website because they are introduced to new animals they may not know about. As well as learning more about animals in an area they might not think about often.
 
 ## Assigning Tasks
 - Host: Tyler, GitHub Repo link (be sure to push a commit to GitHub EVERYDAY, add partners as collaborators to the repo)
