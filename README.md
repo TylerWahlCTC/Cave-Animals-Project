@@ -20,9 +20,9 @@ This website is for people who enjoy animals. We go in depth on what animals are
 All people who are interested in animals would want to view our website because they are introduced to new animals they may not know about. As well as learning more about animals in an area they might not think about often.
 
 ## Assigning Tasks
-- Host: Tyler, GitHub Repo link (be sure to push a commit to GitHub EVERYDAY, add partners as collaborators to the repo)
-- Cole: Collecting images, 
-- Louis: 
+- Host - Tyler: GitHub Repo link, responsive-web, HTML pages, navigation, 
+- Cole: Collecting images/videos, stylesheets, 
+- Louis: Form, HTML pages, navigation, 
   (Do not assign one person to handle an entire webpage by themselves, you should assign them based on their strengths to a particular task that needs to be done accross the whole website)
 
 ## Website Layout
