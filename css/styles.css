@@ -1,22 +1,13 @@
-/* Html */
 html{
     background: #cf9570;
 }
-/* Sections */
+
 section{
     display: inline-block;
 }
-
-/* Figure, Images */
-img{
- clear: both;
-}
-
 figure > img, figcaption{
     max-width: 400px;
 }
-
-/* Navigation */
 .horizontal ul{
     list-style-type: none;
     padding: 0px;
@@ -38,4 +29,27 @@ figure > img, figcaption{
 .horizontal li{
     float: left;
     width: 33%;
+}
+
+h1 {
+    color: #f5e6d1;
+    font-size: 2.2em;
+}
+
+img{
+ clear: both;
+}
+
+footer {
+    background-color: rgb(39, 33, 28);
+}
+
+footer a {
+    text-decoration: none;
+    color: #cf9570;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: rgba(255, 124, 2, 0.801);
 }

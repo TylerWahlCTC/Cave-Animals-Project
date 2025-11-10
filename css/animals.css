@@ -1,0 +1,37 @@
+
+/* HTML styles */
+
+h1 {
+    font-family: Borel;
+}
+
+p {
+    font-family: Rubik;
+}
+
+/* Header styles */
+
+/* Trogloxene styles */
+
+#Xenes {
+    background-color: rgb(196, 172, 164)
+}
+
+/* Troglophiles styles */
+
+#Philes {
+    background-color: rgb(151, 122, 108)
+}
+
+/* Troglobite styles */
+
+#Bites {
+    background-color: rgb(104, 86, 70)
+    
+}
+
+/* Footer styles */
+
+footer {
+    background-color: rgb(39, 33, 28)
+}
